@@ -11,11 +11,11 @@ sys.path.append(os.path.dirname(os.path.abspath(os.path.dirname(__file__))))
 #  참고 : https://brownbears.tistory.com/296
 
 
-from qsort import doQuick
+from qsort import doQuick #qsort.py의 doQuick 클래스(모듈)을 import
 
 
 
-if __name__ == "__main__":
+if __name__ == "__main__": #entry point : 진입점
     print('dir : ',dir())
     arr = [1, 10, 2, 5, 3, 4, 9, 6, 8, 7]
     print('arr 정렬 전 : ', arr)
