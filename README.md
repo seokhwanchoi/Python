@@ -4,13 +4,13 @@
 
 <2021.5.27><br>
 flask 실행시
-linux : export FLASK_APP='모듈이름'
-        flask run
+linux : export FLASK_APP='모듈이름'<br>
+        flask run  <br>
         
         
 <br>
-window : set FLASK_APP='모듈 이름'
-        flask run
+window : set FLASK_APP='모듈 이름' <br>
+        flask run<br>
         
         
         
